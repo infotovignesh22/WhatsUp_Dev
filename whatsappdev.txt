@@ -12,4 +12,6 @@ Author :  Vignesh K
  5. Hiding the Details
  
  6. Adding the Audio Video Feature
+ 
+ 7.Adding the Status so that user can play the train games
 
