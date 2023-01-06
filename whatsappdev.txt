@@ -8,4 +8,6 @@ Author :  Vignesh K
  3. Last Seen Code
 
  4. Attachments (Video,Audio, Image) Code
+ 
+ 5. Hiding the Details
 
